@@ -1,0 +1,1 @@
+{"short_name":"BCSS","name":"BCS Social","icons":[{"src":"/assets/img/bcss.jpg","type":"image/jpeg","sizes":"192x192"},{"src":"/assets/img/blogo.png","type":"image/png","sizes":"2048x2048"}],"start_url":"feed.html","background_color":"rgb(255,255,255)","theme_color":"rgb(255,255,255)","display":"standalone","orientation":"portrait"}

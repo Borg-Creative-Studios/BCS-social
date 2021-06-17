@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/derp/about.html</loc>
+    </url>
+    <url>
+        <loc>/derp/guidelines.html</loc>
+    </url>
+    <url>
+        <loc>/derp/premium.html</loc>
+    </url>
+    <url>
+        <loc>/derp/privacy.html</loc>
+    </url>
+    <url>
+        <loc>/expired/index.html</loc>
+    </url>
+    <url>
+        <loc>/expired/june-16-2021.html</loc>
+    </url>
+    <url>
+        <loc>/feed.html</loc>
+    </url>
+    <url>
+        <loc>/index.html</loc>
+    </url>
+    <url>
+        <loc>/post.html</loc>
+    </url>
+    <url>
+        <loc>/vote.html</loc>
+    </url>
+</urlset>
