@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "BCS Social",
+  "version": "1.0",
+
+  "description": "An experimental browser based notes app.",
+
+  "icons": {
+    "48": "bicon.png"
+  },
+
+  "browser_action": {
+    "default_icon": "bicon.png",
+    "default_title": "BCS Social",
+    "default_popup": "index.html"
+  }
+}
