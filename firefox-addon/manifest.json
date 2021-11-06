@@ -4,7 +4,7 @@
   "name": "BCS Social",
   "version": "1.0",
 
-  "description": "An experimental browser based notes app.",
+  "description": "A privacy respecting social platform.",
 
   "icons": {
     "48": "bicon.png"
